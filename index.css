@@ -1,0 +1,93 @@
+@media screen and (min-width: 800px) {
+    .container {
+        margin: 1em 2em;
+    }
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+  }
+  
+  .card {
+    background-color: #ffbe00;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+  }
+  
+  
+  .card:nth-child(1) {
+    background-color: #e5243b;
+  }
+  
+  .card:nth-child(2) {
+    background-color: #dda63a;
+  }
+  
+  .card:nth-child(3) {
+    background-color: #4c9f38;
+  }
+  
+  .card:nth-child(4) {
+    background-color: #c5192d;
+  }
+  
+  .card:nth-child(5) {
+    background-color: #ff3a21;
+  }
+  
+  .card:nth-child(6) {
+    background-color: #26bde2;
+  }
+  
+  .card:nth-child(7) {
+    background-color: #fcc30b;
+  }
+  
+  .card:nth-child(8) {
+    background-color: #a21942;
+  }
+  
+  .card:nth-child(9) {
+    background-color: #fd6925;
+  }
+  
+  .card:nth-child(10) {
+    background-color: #dd1367;
+  }
+  
+  .card:nth-child(11) {
+    background-color: #fd9d24;
+  }
+  
+  .card:nth-child(12) {
+    background-color: #bf8b2e;
+  }
+  
+  .card:nth-child(13) {
+    background-color: #3f7e44;
+  }
+  
+  .card:nth-child(14) {
+    background-color: #0a97d9;
+  }
+  
+  .card:nth-child(15) {
+    background-color: #56c02b;
+  }
+  
+  .card:nth-child(16) {
+    background-color: #00689d;
+  }
+  
+  .card:nth-child(17) {
+    background-color: #19486a;
+  }
